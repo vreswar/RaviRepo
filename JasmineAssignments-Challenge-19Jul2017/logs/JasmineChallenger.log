@@ -1,0 +1,45 @@
+2017-07-19 23:34:55 INFO  ClockTowerImpl:50 - In displayClock method, received time input : 23:34:55.669
+2017-07-19 23:34:55 INFO  ClockTowerImpl:69 - Got the final Clock Tower
+2017-07-19 23:34:55 INFO  ClockTowerImpl:70 - 
+  Y
+ RRRR
+ RRRO
+ YYRYYROOOOO
+ YYYY
+
+2017-07-19 23:36:32 INFO  ClockTowerImpl:50 - In displayClock method, received time input : 23:36:32.964
+2017-07-19 23:36:32 INFO  ClockTowerImpl:69 - Got the final Clock Tower
+2017-07-19 23:36:32 INFO  ClockTowerImpl:70 - 
+  O
+ RRRR
+ RRRO
+ YYRYYRYOOOO
+ YOOO
+
+2017-07-20 00:03:42 INFO  ClockTowerImpl:50 - In displayClock method, received time input : 00:03:42.850
+2017-07-20 00:03:42 INFO  ClockTowerImpl:69 - Got the final Clock Tower
+2017-07-20 00:03:42 INFO  ClockTowerImpl:70 - 
+  O
+ OOOO
+ OOOO
+ OOOOOOOOOOO
+ YYYO
+
+2017-07-20 00:05:09 INFO  ClockTowerImpl:50 - In displayClock method, received time input : 00:05:09.107
+2017-07-20 00:05:09 INFO  ClockTowerImpl:69 - Got the final Clock Tower
+2017-07-20 00:05:09 INFO  ClockTowerImpl:70 - 
+  Y
+ OOOO
+ OOOO
+ YOOOOOOOOOO
+ OOOO
+
+2017-07-20 06:19:46 INFO  ClockTowerImpl:50 - In displayClock method, received time input : 06:19:46.810
+2017-07-20 06:19:46 INFO  ClockTowerImpl:71 - Got the final Clock Tower
+2017-07-20 06:19:46 INFO  ClockTowerImpl:72 - 
+  O
+ ROOO
+ ROOO
+ YYROOOOOOOO
+ YYYY
+
