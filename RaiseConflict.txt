@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Author: Ravi-Feature1-1.7
+=======
+Author: Ravi-Feature2-1.7
+>>>>>>> feature2
